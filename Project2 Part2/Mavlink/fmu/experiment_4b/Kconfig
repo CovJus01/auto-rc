@@ -1,0 +1,5 @@
+menuconfig EXAMPLES_EXPERIMENT_4B
+	bool "experiment_4b"
+	default n
+	---help---
+		Enable support for experiment_4b

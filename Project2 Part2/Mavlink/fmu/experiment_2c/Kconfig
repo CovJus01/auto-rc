@@ -1,0 +1,5 @@
+menuconfig EXAMPLES_EXPERIMENT_2C
+	bool "experiment_2c"
+	default n
+	---help---
+		Enable support for experiment_2c
